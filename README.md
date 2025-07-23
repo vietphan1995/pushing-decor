@@ -15,3 +15,6 @@ Pushing decor indicator act as tiles, these tiles are digital screen from the gr
 In extend, Pushing decor can protect/align/navigate crowd walking people line in station, wide space, …
 
 ![image.png](image.png)
+
+### Notes
+https://six-zinc-ad4.notion.site/Pushing-decor-1b25e832d6ee80cf9563ff9276b81487
