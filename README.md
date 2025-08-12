@@ -1,6 +1,8 @@
-# Pushing decor
+# pushing-decor
 
-# Introduction
+## Pushing Decor
+
+### Introduction
 
 [https://github.com/vietphan1995/pushing-decor.git](https://github.com/vietphan1995/pushing-decor.git)
 
@@ -16,7 +18,7 @@ In extend, Pushing decor can protect/align/navigate crowd walking people line in
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Pushing-decor-1b25e832d6ee80cf9563ff9276b81487
+https://phantrungviet.notion.site/pushing-decor-1b25e832d6ee80cf9563ff9276b81487
